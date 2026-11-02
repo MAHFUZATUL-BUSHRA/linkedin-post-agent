@@ -2,9 +2,7 @@
 
 An AI agent built with **LangChain** that turns a **topic** and a **language** into a professional, engaging LinkedIn post (2–4 paragraphs plus hashtags).
 
-> Module 21 – AI Agent Project · Ostad
-
-🎥 **Demo video:** [add your video link here]
+🎥 **Demo video:** [https://github.com/MAHFUZATUL-BUSHRA/linkedin-post-agent/tree/main/Demo%20Video}
 
 ---
 
@@ -139,9 +137,6 @@ Never commit your `.env` file. It is listed in `.gitignore`.
 - Generate multiple variants to choose from
 - Direct publishing to LinkedIn via its API
 
-## 📄 License
-
-MIT. Free to use for learning and personal projects.
 
 ## 👤 Author
 
